@@ -19,7 +19,7 @@ class Translation(object):
   
 ➻ Click Help Button To Know More About Me
   
-<b>Bot Is Made By @Madflix_Bots</b>"""
+<b>Bot Is Made By MMW BOTZ</b>"""
 
 
   HELP_TXT = """<b><u>🛠️ Help</b></u>
@@ -50,14 +50,13 @@ class Translation(object):
 ► __If The **From Channel** Is Private Your Userbot Must Be Member In There Or Your Bot Must Need Admin Permission In There Also__
 ► __Then Use /forward To Forward Messages__"""
   
-  ABOUT_TXT = """<b>🤖 My Name :</b> {}
-<b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
-<b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
-<b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
-
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+  ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}</blockquote>\n
+<blockquote>✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/mallumovieworldmain>MMW BOTZ</a>
+✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: ʀᴇɴᴅᴇʀ
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: [ Sᴛᴀʙʟᴇ 𝙱𝙴𝚃𝙰 ]</b>"""
   
   STATUS_TXT = """<b><u>Bot Status</u></b>
   
@@ -140,15 +139,3 @@ Before Forwarding The Messages Click The Yes Button Only After Checking The Foll
 
 
 
-
-
-
-
-
-
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
